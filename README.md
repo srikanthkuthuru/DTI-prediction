@@ -1,2 +1,2 @@
 # DTI-prediction
-Kinase imaging based drug discovery
+Readme files are present separately in each folder.

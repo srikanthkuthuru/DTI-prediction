@@ -1,2 +1,2 @@
 # DTI-prediction
-Readme files are present separately in each folder.
+Separate Readme files are present in each folder.
